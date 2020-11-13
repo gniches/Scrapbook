@@ -1,0 +1,18 @@
+body {
+    margin-top: 30px;
+    background-image: url(/images/O5GLLH0.jpg);
+}
+
+#h1, #versao {
+    display: flex;
+    justify-content: center;
+}
+
+#recados {
+    margin-top: 50px;
+}
+
+textarea {
+    resize: none;
+}
+
